@@ -1,0 +1,7 @@
+VirtualJobSimulator$RR.class
+VirtualJobSimulator$GUI.class
+VirtualJobSimulator$FCFS.class
+VirtualJobSimulator$SRT.class
+VirtualJobSimulator$SJN.class
+VirtualJobSimulator.class
+VirtualJobSimulator$Job.class
